@@ -1,5 +1,5 @@
 ### Hi there I'm Ataberk👋
-I'm Ataberk Akkan, a 22-year old technical enthusiast who does web development, and I also want to develop my dream game someday. Passionate to contribute open-source projects and make cool products.<br>
+I'm Ataberk Akkan, a self-taught passionate full stack developer.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ataberk-akkan-63374a208/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ataberkakkan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/ataberkakkan13)
 <!--

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-![Ataberk's github stats](https://github-readme-stats.vercel.app/api?username=ataberkakkan&show_icons=true&theme=dark)
+![Ataberk's github stats](https://github-readme-stats.vercel.app/api?username=ataberkakkan&show_icons=true&hide_border=true&theme=dark)
 <!-- ![Ataberk's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ataberkakkan&theme=dark) -->
 
 <!---

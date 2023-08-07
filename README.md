@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my personal Website
-- 🌱 I’m currently learning JavaScript/TypeScript
+- 🔭 I’m currently working on a Rent A Car Project
+- 🌱 I’m currently learning C#/.Net
 - 👯 I’m looking to collaborate on Java/Spring projects
 - 😄 Pronouns: He/His/Him
 

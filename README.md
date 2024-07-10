@@ -1,7 +1,8 @@
 ### Hi there I'm Ataberk👋
 I'm Ataberk Akkan, a self-taught passionate full stack developer.<br>
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ataberk-akkan-63374a208/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ataberkakkan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/ataberkakkan13)
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/ataberkakkan) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/ataberkakkan13) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/ataberkakkan/)
+
 <!--
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...

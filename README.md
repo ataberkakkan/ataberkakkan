@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a To Do App
-- 🌱 I’m currently learning React/JavaScript
+- 🔭 I’m currently working on a Vehicle Tracking System and Mobile Application
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on any project that I can help
 - 😄 Pronouns: He/His/Him
 
